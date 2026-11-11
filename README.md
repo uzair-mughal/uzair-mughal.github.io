@@ -9,6 +9,7 @@ A minimal, responsive website made with plain HTML and CSS. No build step, depen
 - `index.html`: biography, experience, education, selected work, and links.
 - `styles.css`: desktop, mobile, keyboard focus, and print styles.
 - `favicon.svg`: initials icon.
+- `portrait.svg`: optimized profile photo.
 
 Edit the content and commit to `master`. GitHub Pages automatically publishes the updated site.
 
